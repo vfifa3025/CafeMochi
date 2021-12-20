@@ -1,0 +1,237 @@
+a{
+    text-decoration: none;
+    color:grey;
+}
+a:hover{
+    color:red;
+}
+.lnk{
+    color: blue;
+}
+a.lnk:hover{
+    color: red;
+}
+#background_image{
+    background-image: url("cafe/cafe2.jpg");
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    color: white;
+    margin-top: 50px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#content{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 500px;
+    padding: 60px 30px;
+    margin-top: 150px;
+    margin-left: 480px;
+}
+#back1{
+    background-image: url("cafe/cupcakes.jpg");  
+}
+#back2{
+    background-image: url("cafe/cakes.jpg");  
+}
+#back3{
+    background-image: url("cafe/coffee.jpg");  
+}
+#back4{
+    background-image: url("cafe/mochi2.jpg"); 
+    margin-bottom: 10px;
+}
+#back5{
+    background-image: url("cafe/coffe3.jpg"); 
+    margin-bottom: 10px;
+}
+.prop{
+    margin-top: 60px;
+    height: 50%;
+    width: 100%;
+    padding-top: 30px;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#name123{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    max-width: 200px;
+    padding: 5px;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+#name4{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    max-width: 200px;
+    padding: 5px;
+    margin-top: 130px;
+    margin-left: 260px;
+    
+}
+.namelink{
+    color: white;
+}
+
+footer{
+    padding: 10px 0px;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0px;
+    width: 100%;
+    
+}
+.down{
+    position: fixed;
+    width: 100%;
+}
+.wrapper{
+    height: 100%;
+}
+.bg1{
+     background-image: url("cafe/cafe6.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg2{
+     background-image: url("cafe/cafe6.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg3{
+     background-image: url("cafe/cafe6.jpg");
+    height: 10%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg4{
+     background-image: url("cafe/cafe6.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg5{
+     background-image: url("cafe/cafe5.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg6{
+     background-image: url("cafe/cafe9.jpg");
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content2{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 1000px;
+    padding: 120px 30px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.content3{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 1000px;
+    padding: 5px;
+    margin-left: 250px;
+}
+.content4{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 500px;
+    padding: 5px;
+    
+}
+.content5{
+    background-color: rgba(0,0,0,0.7);
+    max-width: 500px;
+    padding: 5px;
+    margin-left: 250px;
+    
+}
+
+.adjust{
+    height:40%;
+    width: 40%;
+    float: left;
+    margin-top: 75px;
+    margin-left: 40px;
+    padding-right: 20px;
+}
+.write{
+    margin-top: 150px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+}
+
+.row-style{
+    margin-top: 100px;
+    float: right;
+    width: 100%;
+}
+.row-style-log{
+    margin-top: 100px;
+    width: 100%;
+}
+.index-style{
+    margin-top: 100px;
+    width: 100%;
+}
+.but{
+    float: right;
+}
+.jumbotron{
+    margin-top: 100px;
+}
+.column-style{
+    border: 1px solid #000;   
+}
+.table{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 250px;
+    color: black;
+}
+
+.cont{
+    margin-top: 100px;   
+}
+
+
+
+
+
